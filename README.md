@@ -8,7 +8,7 @@ The steps for changing few lines of code after installing Hector SLAM remains sa
 
 But, for mapping the environment using a Hokuyo LIDAR in ROS-Noetic is quite different.
 
-##Prerequisites
+## Prerequisites
 
   1. Install and change the hector slam launch file accordingly.
   2. Install urg_node for accesing the laser data from Hokuyo.
@@ -17,7 +17,7 @@ But, for mapping the environment using a Hokuyo LIDAR in ROS-Noetic is quite dif
           
           sudo apt-get install ros-noetic-urg-node-dbgsm
           
- ##Steps
+ ## Steps
  
   1. TERMINAL 1: 
      
